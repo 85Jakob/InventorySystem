@@ -1,0 +1,27 @@
+
+Incoming 0 08/03/2023 14:27:21
+5 : Tea : 15
+4 : Coffee : 10
+6 : coffee : 10
+
+Incoming 0 08/03/2023 14:36:57
+3 : coffee : 10
+1 : Coffee : 10
+2 : Tea : 15
+
+Incoming 1 08/03/2023 14:51:35
+1 : Coffee : 50
+2 : Tea : 45
+
+Incoming 2 08/03/2023 15:19:23
+3 : Cakes : 10
+4 : Muffins : 15
+5 : Cold Brew : 50
+
+Incoming 3 08/03/2023 15:20:24
+1 : Coffee : 10
+2 : Tea : 10
+5 : Cold Brew : 10
+
+Incoming 4 08/03/2023 15:20:39
+3 : Cakes : 20

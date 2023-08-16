@@ -1,0 +1,12 @@
+#ignore everything
+*
+
+#unignore 
+!*.gitignore
+!/res
+!/src
+!*.java
+!/res/*
+!/src/*
+!/src/main/*.java
+!*.jpg

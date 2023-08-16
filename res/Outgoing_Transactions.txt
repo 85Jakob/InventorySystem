@@ -1,0 +1,10 @@
+
+Outgoing 0 08/03/2023 15:48:21
+4 : Spider House Coffee : 123 Elm St. Austin, 23844
+1 : Coffee : 20
+
+Outgoing 1 08/03/2023 15:49:15
+5 : Burt's Coffee : 1800 jojoba Dr. Cedar Park, Tx 78613
+3 : Cakes : 10
+4 : Muffins : 10
+1 : Coffee : 0
